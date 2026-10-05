@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-05",
+  "profile_date": "2026-09-12",
+  "counts": {
+    "general": {
+      "total": 1199,
+      "core": 373,
+      "played": 43,
+      "related": 2,
+      "recent": 81,
+      "requested_exceptions": 3
+    },
+    "indie": {
+      "all": 816,
+      "main": 366,
+      "engines": 218,
+      "solo": 342,
+      "inspiration": 449,
+      "played": 11,
+      "related": 0,
+      "team_verified": 189,
+      "engine_verified": 634,
+      "supplement": 519,
+      "upcoming": 4,
+      "comparison": 9
+    }
+  },
+  "files": {
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "01-Kanon-indie.md": {
+      "bytes": 238356,
+      "sha256": "cc6ca4052fd4fd85040d87a11ccc6e3add1b7cfde8e6189662181ee278fcdabf"
+    },
+    "02-Gry-wedlug-silnikow.md": {
+      "bytes": 175582,
+      "sha256": "b5c0bc9105ab3cb3184133d800cf21418fa9956ed649e5f7c38b1efa9c585a1f"
+    },
+    "03-Gatunki-dla-solo-i-malego-zespolu.md": {
+      "bytes": 293148,
+      "sha256": "b9e3ad313d3378c70a241f5d752357aaf240d182d56825ba55478dfcf3631296"
+    },
+    "04-Inspiracje-do-wlasnych-gier.md": {
+      "bytes": 534951,
+      "sha256": "a7f82a86c61a07fe3fb252e85162ae56223ab1a34130ce4fd4e55a58d9c1d566"
+    },
+    "05-Studia-serie-i-uzupelnienia.md": {
+      "bytes": 428441,
+      "sha256": "06a46082e92d7049e5ef2814deb662c3ca259982c38ae211a02746bb5b22dfc9"
+    },
+    "Atlas-indie.html": {
+      "bytes": 1459437,
+      "sha256": "0964bba83bee839908c9c502bc05b00f86df4928ef6708110239e4587281cab9"
+    },
+    "dane.json": {
+      "bytes": 1835413,
+      "sha256": "32f5d5f9d35313679070a2aabdd76adee1b9ad122a9a254c1eb6c42e42ac7f37"
+    },
+    "index.html": {
+      "bytes": 3595,
+      "sha256": "7beb70c918070afbbcab75e9e24740215e53cdc85249cbc7690cdd2ce9e36cb2"
+    },
+    "Kanon-krytyka.html": {
+      "bytes": 824150,
+      "sha256": "bd2fe8841c1a647a18fc55ba4e042f0fe0bb1c6aa2fb7d40c1305038eb43a32e"
+    },
+    "Kanon-krytyka.md": {
+      "bytes": 437087,
+      "sha256": "1ee4c6b202513af802176e79fb323f9ec2c0c3824af077015fb91de17f8d04bc"
+    },
+    "kanon.json": {
+      "bytes": 1006180,
+      "sha256": "649b9edf3527c4db18b55d6ad9a59a2c1934e03316cc44223dcb034c9970347c"
+    },
+    "README.md": {
+      "bytes": 1686,
+      "sha256": "c67ab3297a5afbbbee1ed5bb627646899085aa8fb67bf0e091a54e4d148b30e5"
+    },
+    "selekcja-2020-2026.json": {
+      "bytes": 4617,
+      "sha256": "2d604e098d5abac0a38607e43bf56430fed0959d87806e0e019b20391db61e12"
+    }
+  }
+}

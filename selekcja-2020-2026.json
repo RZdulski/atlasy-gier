@@ -1,0 +1,189 @@
+{
+  "criteria": "Ocena BG >=4.0/5 lub MC >=90/100 lub BAFTA Best Game; zasięg BG Plays >=10000 lub co najmniej milion potwierdzonych graczy/sprzedaży.",
+  "rejected_candidates": [
+    {
+      "id": 1017,
+      "title": "Astro's Playroom",
+      "year": 2020,
+      "score": 3.9,
+      "plays": 49000,
+      "reason": "Brak progu ocen/nagrody. "
+    },
+    {
+      "id": 1027,
+      "title": "Spelunky 2",
+      "year": 2020,
+      "score": 3.9,
+      "plays": 8500,
+      "reason": "Brak progu ocen/nagrody. Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1036,
+      "title": "Ratchet & Clank: Rift Apart",
+      "year": 2021,
+      "score": 3.9,
+      "plays": 36000,
+      "reason": "Brak progu ocen/nagrody. "
+    },
+    {
+      "id": 1042,
+      "title": "Gran Turismo 7",
+      "year": 2022,
+      "score": 3.9,
+      "plays": 7300,
+      "reason": "Brak progu ocen/nagrody. Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1046,
+      "title": "Sifu",
+      "year": 2022,
+      "score": 3.9,
+      "plays": 49000,
+      "reason": "Brak progu ocen/nagrody. "
+    },
+    {
+      "id": 1047,
+      "title": "The Case of the Golden Idol",
+      "year": 2022,
+      "score": 4.1,
+      "plays": 9800,
+      "reason": "Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1048,
+      "title": "Total War: Warhammer III",
+      "year": 2022,
+      "score": 3.9,
+      "plays": null,
+      "reason": "Brak progu ocen/nagrody. Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1049,
+      "title": "Triangle Strategy",
+      "year": 2022,
+      "score": 3.9,
+      "plays": 5700,
+      "reason": "Brak progu ocen/nagrody. Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1061,
+      "title": "Dredge",
+      "year": 2023,
+      "score": 3.9,
+      "plays": 33000,
+      "reason": "Brak progu ocen/nagrody. "
+    },
+    {
+      "id": 1062,
+      "title": "Final Fantasy XVI",
+      "year": 2023,
+      "score": 3.8,
+      "plays": 41000,
+      "reason": "Brak progu ocen/nagrody. "
+    },
+    {
+      "id": 1074,
+      "title": "Frostpunk 2",
+      "year": 2024,
+      "score": 3.6,
+      "plays": 2600,
+      "reason": "Brak progu ocen/nagrody. Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1075,
+      "title": "Helldivers 2",
+      "year": 2024,
+      "score": 3.8,
+      "plays": 49000,
+      "reason": "Brak progu ocen/nagrody. "
+    },
+    {
+      "id": 1090,
+      "title": "Big Walk",
+      "year": 2026,
+      "score": 4.3,
+      "plays": 7800,
+      "reason": "Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1093,
+      "title": "Mina the Hollower",
+      "year": 2026,
+      "score": 4.2,
+      "plays": 7700,
+      "reason": "Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1172,
+      "title": "Nioh 2",
+      "year": 2020,
+      "score": 3.8,
+      "plays": 8300,
+      "reason": "Brak progu ocen/nagrody. Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1173,
+      "title": "Monster Hunter Rise",
+      "year": 2021,
+      "score": 3.7,
+      "plays": 37000,
+      "reason": "Brak progu ocen/nagrody. "
+    },
+    {
+      "id": 1174,
+      "title": "Shin Megami Tensei V",
+      "year": 2021,
+      "score": 3.6,
+      "plays": 13000,
+      "reason": "Brak progu ocen/nagrody. "
+    },
+    {
+      "id": 1177,
+      "title": "Octopath Traveler II",
+      "year": 2023,
+      "score": 4.2,
+      "plays": 9300,
+      "reason": "Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1178,
+      "title": "Slay the Princess",
+      "year": 2023,
+      "score": 3.9,
+      "plays": 12000,
+      "reason": "Brak progu ocen/nagrody. "
+    },
+    {
+      "id": 1179,
+      "title": "Fear & Hunger 2: Termina",
+      "year": 2022,
+      "score": 4.4,
+      "plays": 6400,
+      "reason": "Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1181,
+      "title": "Undertale Yellow",
+      "year": 2023,
+      "score": 4,
+      "plays": 4200,
+      "reason": "Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1182,
+      "title": "1000xResist",
+      "year": 2024,
+      "score": 4.3,
+      "plays": 9100,
+      "reason": "Brak progu udokumentowanego zasięgu."
+    },
+    {
+      "id": 1184,
+      "title": "Crow Country",
+      "year": 2024,
+      "score": 4,
+      "plays": 8600,
+      "reason": "Brak progu udokumentowanego zasięgu."
+    }
+  ]
+}
