@@ -2,16 +2,16 @@
   "date": "2026-10-05",
   "profile_date": "2026-09-12",
   "counts": {
-    "all": 816,
+    "all": 817,
     "main": 366,
-    "engines": 218,
-    "solo": 342,
-    "inspiration": 449,
+    "engines": 219,
+    "solo": 343,
+    "inspiration": 450,
     "played": 11,
     "related": 0,
-    "team_verified": 189,
-    "engine_verified": 634,
-    "supplement": 519,
+    "team_verified": 190,
+    "engine_verified": 635,
+    "supplement": 520,
     "upcoming": 4,
     "comparison": 9
   },
@@ -46971,6 +46971,88 @@
         {
           "text": "Silnik / technologia",
           "url": "https://steamdb.info/app/3117820/info/"
+        }
+      ]
+    },
+    {
+      "id": 6064,
+      "title": "The Drifter",
+      "year": 2025,
+      "platform": "Windows PC; macOS; Linux; Nintendo Switch; Nintendo Switch 2",
+      "genre": "point & click; thriller narracyjny; horror science fiction",
+      "studio": "Powerhoof / Dave Lloyd",
+      "engine": "Unity + PowerQuest (autorski zestaw narzędzi do przygodówek 2D)",
+      "engine_source": "https://powerquest.powerhoof.com/index.html",
+      "engine_focus": "Unity",
+      "team": "6 autorów produkcji wymienionych w oficjalnym press kit: Dave Lloyd (scenariusz, kod, projekt), Barney Cumming (kierownictwo artystyczne), Alexander McDonald (animacja), Matt Frith (tła), Mitchell Pasmans i Louis Meyer (muzyka). Osobno Adrian Vaughan jako głos protagonisty oraz pozostali wykonawcy; nie jest to liczba wszystkich osób w pełnych credits. Samo Powerhoof to duet Lloyd–Cumming.",
+      "team_source": "https://www.powerhoof.com/press/sheet.php?p=The+Drifter",
+      "why": "Łączy klasyczną przygodówkę z tempem filmowego thrillera: praktyczne zagadki podtrzymują śledztwo, a animacja, głos i dźwięk nadają scenom napięcie. Warto analizować krótkie łańcuchy zależności przedmiotów, przejścia między spokojem a zagrożeniem i sterowanie dostosowane do myszy oraz pada. Warsztatowo pokazuje, jak własne narzędzia nad Unity porządkują produkcję narracyjnej gry 2D; to wzorzec pojedynczej sceny śledztwa, nie obietnica łatwego odtworzenia całej kampanii solo.",
+      "solo": "Przygodówka 2D",
+      "inspire": [
+        "Point & Click",
+        "Horror"
+      ],
+      "note": "Premiera komputerowa: 17.07.2025; Switch i Switch 2: 22.06.2026. Wersje PlayStation i Xbox pozostają zapowiedziane w wykorzystanym press kit i nie są liczone jako wydane. Backloggd w odczycie 05.10.2026: 4,0/5 i ok. 1,1 tys. Plays; jakość spełnia próg, lecz nie udokumentowano progu rozgłosu głównego kanonu 2020–2026. Dlatego wpis znajduje się w listach warsztatowych i uzupełnień. Zdobywca Australian Game Developer Awards 2025: Game of the Year, Narrative, Visual Art i Sound Design.",
+      "url": "https://backloggd.com/games/the-drifter/",
+      "core": false,
+      "main": false,
+      "played": "unknown",
+      "played_text": "Brak potwierdzenia w zapisie",
+      "played_edition": "",
+      "played_url": "",
+      "refresh": "Nie odnotowano odrębnego oficjalnego remake’u ani remasteru w wykorzystanych źródłach; wydania konsolowe są portami tego samego dzieła.",
+      "refresh_yes": false,
+      "evidence": [
+        {
+          "text": "Backloggd: 4.0/5; ok. 1100 Plays",
+          "url": "https://backloggd.com/games/the-drifter/"
+        }
+      ],
+      "score": 4.0,
+      "plays": 1100,
+      "mc": null,
+      "additional_sources": [
+        {
+          "text": "Oficjalne platformy, daty, credits i nagrody",
+          "url": "https://www.powerhoof.com/press/sheet.php?p=The+Drifter"
+        },
+        {
+          "text": "Twórca: PowerQuest i migracja portu Switch do Unity 6",
+          "url": "https://powerquest.powerhoof.com/version_history.html"
+        }
+      ],
+      "collections": [
+        "Powerhoof",
+        "Przygodówki point & click"
+      ],
+      "requested": true,
+      "release_status": "wydana",
+      "small_team_verified": true,
+      "catalog_verified": true,
+      "engine_candidate": "",
+      "engine_group": "Unity",
+      "main_modern_ok": false,
+      "solo_small_team_note": "To przykład mechaniki i ograniczania zakresu, nie deklaracja, że całą grę łatwo odtworzy jedna osoba.",
+      "sources": [
+        {
+          "text": "Backloggd: wpis i platformy",
+          "url": "https://backloggd.com/games/the-drifter/"
+        },
+        {
+          "text": "Oficjalne platformy, daty, credits i nagrody",
+          "url": "https://www.powerhoof.com/press/sheet.php?p=The+Drifter"
+        },
+        {
+          "text": "Twórca: PowerQuest i migracja portu Switch do Unity 6",
+          "url": "https://powerquest.powerhoof.com/version_history.html"
+        },
+        {
+          "text": "Silnik / technologia",
+          "url": "https://powerquest.powerhoof.com/index.html"
+        },
+        {
+          "text": "Zespół / credits",
+          "url": "https://www.powerhoof.com/press/sheet.php?p=The+Drifter"
         }
       ]
     },

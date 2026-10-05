@@ -11,16 +11,16 @@
       "requested_exceptions": 3
     },
     "indie": {
-      "all": 816,
+      "all": 817,
       "main": 366,
-      "engines": 218,
-      "solo": 342,
-      "inspiration": 449,
+      "engines": 219,
+      "solo": 343,
+      "inspiration": 450,
       "played": 11,
       "related": 0,
-      "team_verified": 189,
-      "engine_verified": 634,
-      "supplement": 519,
+      "team_verified": 190,
+      "engine_verified": 635,
+      "supplement": 520,
       "upcoming": 4,
       "comparison": 9
     }
@@ -32,35 +32,35 @@
     },
     "01-Kanon-indie.md": {
       "bytes": 238356,
-      "sha256": "cc6ca4052fd4fd85040d87a11ccc6e3add1b7cfde8e6189662181ee278fcdabf"
+      "sha256": "01597f00b7c7b0e99cc6a795b79842035016ee06fed315fd92c8750b3c65ca30"
     },
     "02-Gry-wedlug-silnikow.md": {
-      "bytes": 175582,
-      "sha256": "b5c0bc9105ab3cb3184133d800cf21418fa9956ed649e5f7c38b1efa9c585a1f"
+      "bytes": 177852,
+      "sha256": "fc5aa8881d3ab178ac7179f93c952dd2c56a8b888756384e0964f08ddb9169ae"
     },
     "03-Gatunki-dla-solo-i-malego-zespolu.md": {
-      "bytes": 293148,
-      "sha256": "b9e3ad313d3378c70a241f5d752357aaf240d182d56825ba55478dfcf3631296"
+      "bytes": 295418,
+      "sha256": "a5d5d23b4805fd26739c8b9950ca2cc1d8346938269a0e9ba53f5a59d88285ad"
     },
     "04-Inspiracje-do-wlasnych-gier.md": {
-      "bytes": 534951,
-      "sha256": "a7f82a86c61a07fe3fb252e85162ae56223ab1a34130ce4fd4e55a58d9c1d566"
+      "bytes": 539491,
+      "sha256": "59b467d017912322dea120da76b400e34643703b13df7593357ee61c16a6d556"
     },
     "05-Studia-serie-i-uzupelnienia.md": {
-      "bytes": 428441,
-      "sha256": "06a46082e92d7049e5ef2814deb662c3ca259982c38ae211a02746bb5b22dfc9"
+      "bytes": 430711,
+      "sha256": "4dd637de7c22eca4cd6445257d5d21e6415a938f29dd6978b3f64d70dc76d05f"
     },
     "Atlas-indie.html": {
-      "bytes": 1459437,
-      "sha256": "0964bba83bee839908c9c502bc05b00f86df4928ef6708110239e4587281cab9"
+      "bytes": 1463142,
+      "sha256": "07466f0aa0eb1b62b588ec68ae1fc4832b96947916bc6860a23af5ec0322c672"
     },
     "dane.json": {
-      "bytes": 1835413,
-      "sha256": "32f5d5f9d35313679070a2aabdd76adee1b9ad122a9a254c1eb6c42e42ac7f37"
+      "bytes": 1839820,
+      "sha256": "274775164b04156476a33d3d80994c576979bdbe2ac0aaf4408fa59497d5de95"
     },
     "index.html": {
       "bytes": 3595,
-      "sha256": "7beb70c918070afbbcab75e9e24740215e53cdc85249cbc7690cdd2ce9e36cb2"
+      "sha256": "ecfdad191ca94fbdf7b68c0ee3271c565d60968261e439c12ca227288e20b201"
     },
     "Kanon-krytyka.html": {
       "bytes": 824150,
@@ -76,7 +76,7 @@
     },
     "README.md": {
       "bytes": 1686,
-      "sha256": "c67ab3297a5afbbbee1ed5bb627646899085aa8fb67bf0e091a54e4d148b30e5"
+      "sha256": "5ac78655def408cfdda371711f4986324fa0f7c5f51d56994faf46426ba8a306"
     },
     "selekcja-2020-2026.json": {
       "bytes": 4617,
