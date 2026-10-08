@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-08",
   "profile_date": "2026-09-12",
   "counts": {
     "general": {
-      "total": 1199,
+      "total": 1200,
       "core": 373,
       "played": 43,
       "related": 2,
@@ -60,23 +60,23 @@
     },
     "index.html": {
       "bytes": 3595,
-      "sha256": "ecfdad191ca94fbdf7b68c0ee3271c565d60968261e439c12ca227288e20b201"
+      "sha256": "5164979d04783dc35298c939d3eb4af841c35da5dbecb805ce848a79e62e804b"
     },
     "Kanon-krytyka.html": {
-      "bytes": 824150,
-      "sha256": "bd2fe8841c1a647a18fc55ba4e042f0fe0bb1c6aa2fb7d40c1305038eb43a32e"
+      "bytes": 826965,
+      "sha256": "dcd030f002cd2c56c6118e8ca189fa733fbbbf8372f83b91a97b891128f2b359"
     },
     "Kanon-krytyka.md": {
-      "bytes": 437087,
-      "sha256": "1ee4c6b202513af802176e79fb323f9ec2c0c3824af077015fb91de17f8d04bc"
+      "bytes": 439411,
+      "sha256": "e7725d2c2b9e37e3684b2682ab0c8b0b0b9275c2544c74161c687c793cca4ace"
     },
     "kanon.json": {
-      "bytes": 1006180,
-      "sha256": "649b9edf3527c4db18b55d6ad9a59a2c1934e03316cc44223dcb034c9970347c"
+      "bytes": 1009020,
+      "sha256": "5a4d20105d34221923b3df451ffd03305e65c94cca67477559e8565bb6452e1f"
     },
     "README.md": {
       "bytes": 1686,
-      "sha256": "5ac78655def408cfdda371711f4986324fa0f7c5f51d56994faf46426ba8a306"
+      "sha256": "5c59f6dfe9092e198d76c84de66de96d5421c41b5859e46e57a674ed927acc2b"
     },
     "selekcja-2020-2026.json": {
       "bytes": 4617,

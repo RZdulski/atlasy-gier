@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-08",
   "profile_date": "2026-09-12",
   "counts": {
-    "total": 1199,
+    "total": 1200,
     "core": 373,
     "played": 43,
     "related": 2,
@@ -14009,6 +14009,54 @@
       "score": 4.3,
       "plays": 13000,
       "mc": null
+    },
+    {
+      "id": 6016,
+      "title": "Stella Deus: The Gate of Eternity",
+      "year": 2004,
+      "platform": "PS2; PS3 (reedycja PS2 Classics, 2013)",
+      "genre": "SRPG / TRPG; taktyczne JRPG; fantasy",
+      "why": "Niszowy reprezentant taktycznego JRPG epoki PS2 w katalogu Atlusa. Wspólny budżet punktów akcji dla ruchu i ataków, nakładające się strefy efektów oraz uderzenia drużynowe czynią ustawienie postaci głównym narzędziem walki. Warto znać jako przykład łączenia rozbudowanej taktyki z opowieścią o religii, przemocy i przyjmowaniu lub odrzucaniu zagłady świata. Projekty postaci Shigenoriego Soejimy pozwalają prześledzić rozwój jego języka plastycznego poza serią Persona.",
+      "slug": "stella-deus-the-gate-of-eternity",
+      "url": "https://backloggd.com/games/stella-deus-the-gate-of-eternity/",
+      "catalog_verified": true,
+      "catalog_checked_at": "2026-10-08",
+      "note": "Oryginał PS2: Japonia 2004, Ameryka Północna 2005, Europa 2006. Reedycja PS2 Classics na PS3 ukazała się w Ameryce Północnej 03.09.2013. Nie należy mylić z odrębnym Stella Glow ani mobilną odsłoną Stella Deus: Raven Spirits.",
+      "core": false,
+      "refresh": "Nie odnotowano odrębnego oficjalnego remake’u/remasteru oryginału PS2. PS2 Classics na PS3 jest reedycją. G-MODE Archives+: Stella Deus: Raven Spirits dotyczy osobnej gry telefonicznej, nie odświeżenia The Gate of Eternity.",
+      "refresh_yes": false,
+      "evidence": [],
+      "score": 3.1,
+      "plays": 266,
+      "mc": null,
+      "requested": true,
+      "selection_exception": false,
+      "additional_sources": [
+        {
+          "text": "Atlus: instrukcja oryginału, punkty akcji, strefy efektów i ataki drużynowe",
+          "url": "https://archive.rpgamer.com/games/other/ps2/stella/packaging/stella.pdf"
+        },
+        {
+          "text": "Sony: wydanie PS2 Classics we wrześniu 2013",
+          "url": "https://blog.playstation.com/2013/09/03/playstation-store-update-315/"
+        },
+        {
+          "text": "Wydawca albumu Shigenoriego Soejimy: prace ze Stella Deus",
+          "url": "https://www.simonandschuster.net/books/Shigenori-Soejima-Art-Works/Shigenori-Soejima/Shigenori-Soejima-Art-Works/9781772941166"
+        },
+        {
+          "text": "Daty regionalnych wydań PS2 i reedycji PS3",
+          "url": "https://www.mobygames.com/game/17864/stella-deus-the-gate-of-eternity/releases/"
+        },
+        {
+          "text": "G-MODE: odrębna odsłona telefoniczna Raven Spirits",
+          "url": "https://info.gmodecorp.com/gmodearchives/atlus/stelladeusshikkoku/"
+        }
+      ],
+      "played": "unknown",
+      "played_text": "— Brak potwierdzenia",
+      "played_edition": "",
+      "played_url": ""
     },
     {
       "title": "Tekken 5",

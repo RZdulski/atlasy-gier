@@ -1,6 +1,6 @@
 # Atlasy gier
 
-Stan opracowania: 05.10.2026. Kanon ogólny: 1199 pozycji. Atlas indie: 817 gier.
+Stan opracowania: 08.10.2026. Kanon ogólny: 1200 pozycji. Atlas indie: 817 gier.
 
 - [Strona startowa](https://rzdulski.github.io/atlasy-gier/)
 - [Kanon ogólny z wyszukiwarką](https://rzdulski.github.io/atlasy-gier/Kanon-krytyka.html)
