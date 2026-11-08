@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-11-08",
   "profile_date": "2026-09-12",
   "counts": {
-    "total": 1200,
+    "total": 1202,
     "core": 373,
     "played": 43,
     "related": 2,
@@ -8074,6 +8074,90 @@
       "score": 3.5,
       "plays": 13000,
       "mc": null
+    },
+    {
+      "year": 1996,
+      "genre": "przygodowa; horror; miejskie legendy",
+      "core": false,
+      "catalog_verified": true,
+      "catalog_checked_at": "2026-11-08",
+      "refresh": "Obie części zebrano w Twilight Syndrome: Special (PS1, 1998). To kompilacja; nie potwierdzono odrębnego oficjalnego remake’u ani remasteru.",
+      "refresh_yes": false,
+      "evidence": [],
+      "mc": null,
+      "requested": true,
+      "selection_exception": false,
+      "id": 6018,
+      "title": "Twilight Syndrome Kyuumei-hen",
+      "slug": "twilight-syndrome-kyuumei-hen",
+      "platform": "PlayStation (PS1, Japonia); japońskie telefony komórkowe (2008)",
+      "why": "Drugi tom rozwija pytania pozostawione przez Tansaku-hen i pokazuje, jak rozdzielić jedną opowieść grozy na osobne epizody. Powrót do tych samych bohaterek i realiów pozwala stopniowo zmieniać znaczenie wcześniejszych tropów, a wątki przemocy rówieśniczej i pamięci o wojnie nadają miejskim legendom społeczny kontekst.",
+      "note": "Human Entertainment, premiera japońska 19.07.1996 (SLPS-00405). Bezpośrednia kontynuacja i domknięcie historii z pierwszej części. Wersja telefoniczna ukazała się w 2008 r.",
+      "score": 3.6,
+      "plays": 190,
+      "additional_sources": [
+        {
+          "text": "RCGS: oryginał PS1, data i wydawca",
+          "url": "https://collection.rcgs.jp/page/PACKAGE0002722"
+        },
+        {
+          "text": "Historia wydań: wersja telefoniczna i odsyłacze do doniesień z epoki",
+          "url": "https://en.wikipedia.org/wiki/Twilight_Syndrome#Release_history"
+        },
+        {
+          "text": "Game Watch: tematyka oryginalnych gier",
+          "url": "https://game.watch.impress.co.jp/docs/20080522/ts.htm"
+        },
+        {
+          "text": "Famitsu: wydanie zbiorcze obu części w 1998 r.",
+          "url": "https://www.famitsu.com/article/202603/66912"
+        }
+      ],
+      "url": "https://backloggd.com/games/twilight-syndrome-kyuumei-hen/",
+      "played": "unknown",
+      "played_text": "— Brak potwierdzenia",
+      "played_edition": "",
+      "played_url": ""
+    },
+    {
+      "year": 1996,
+      "genre": "przygodowa; horror; miejskie legendy",
+      "core": false,
+      "catalog_verified": true,
+      "catalog_checked_at": "2026-11-08",
+      "refresh": "Obie części zebrano w Twilight Syndrome: Special (PS1, 1998). To kompilacja; nie potwierdzono odrębnego oficjalnego remake’u ani remasteru.",
+      "refresh_yes": false,
+      "evidence": [],
+      "mc": null,
+      "requested": true,
+      "selection_exception": false,
+      "id": 6017,
+      "title": "Twilight Syndrome Tansaku-hen",
+      "slug": "twilight-syndrome-tansaku-hen",
+      "platform": "PlayStation (PS1, Japonia); japońskie telefony i-mode (2008)",
+      "why": "Wczesna przygodówka grozy na PlayStation, która buduje napięcie wokół szkolnych plotek i miejsc znanych bohaterkom z codziennego życia. Zdigitalizowane postacie, chodzenie po lokacjach i oszczędne sygnały dźwiękowe zmieniają opowieść o duchach w śledztwo prowadzone samodzielnie przez gracza.",
+      "note": "Human Entertainment, premiera japońska 01.03.1996 (SLPS-00102). Pierwsza z dwóch części historii. Dwango udostępniło wydanie i-mode w lipcu 2008.",
+      "score": 3.4,
+      "plays": 267,
+      "additional_sources": [
+        {
+          "text": "RCGS: oryginał PS1, data i wydawca",
+          "url": "https://collection.rcgs.jp/page/PACKAGE0002653"
+        },
+        {
+          "text": "Dwango: wydanie na telefony i-mode",
+          "url": "https://dwango.co.jp/news/7842168253625993161/"
+        },
+        {
+          "text": "Famitsu: wydanie zbiorcze obu części w 1998 r.",
+          "url": "https://www.famitsu.com/article/202603/66912"
+        }
+      ],
+      "url": "https://backloggd.com/games/twilight-syndrome-tansaku-hen/",
+      "played": "unknown",
+      "played_text": "— Brak potwierdzenia",
+      "played_edition": "",
+      "played_url": ""
     },
     {
       "title": "Wipeout 2097",
